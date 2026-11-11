@@ -48,3 +48,12 @@ Prompt Suggestion: you should clarify what kind of integrals you are learning ri
 
 Suggested improvement: give an example of begginer checklist for the AI to follow.
 
+## Part 5:
+
+1."What did your partner's feedback teach you about your prompt?"
+
+It showed me that I need to use examples more often.
+
+2."Give one example of something you should not trust an AI to answer correctly, and explain why."
+
+you should never trust AI's predictions, simply because it doesn't know the future.
